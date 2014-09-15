@@ -1,0 +1,1 @@
+This is Assignment 1 written under Vim and needs to be executed from the terminal/command line. In order to run this, put it in a folder titled Assignment1, compile it from the src directory with "javac Assignment1/Assignment1.java" and run it with "java Assignment1.Assignment1."
